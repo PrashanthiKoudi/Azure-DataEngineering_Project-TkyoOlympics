@@ -23,7 +23,7 @@ The pipeline is divided into the following stages:
    - Create dashboards with:
      - **Power BI**
 
-![Architecture](relative/path/to/image.png)
+![Architecture](data/olympic_azure.png)
 ---
 ## Data Sources
 
