@@ -9,7 +9,7 @@ This repository implements a scalable data pipeline for analyzing and visualizin
 The pipeline is divided into the following stages:
 
 1. **Data Integration**
-   - Ingest data from various sources using **Azure Data Factory**.
+   - Ingest data from Github using **Azure Data Factory**.
    - Store raw data in **Azure Data Lake Gen2**.
 
 2. **Data Transformation**
